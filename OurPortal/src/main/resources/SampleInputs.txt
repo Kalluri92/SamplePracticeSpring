@@ -1,0 +1,14 @@
+{
+	"eNumber":"96691_FS",
+	"eName":"Jaya Sai Krishna Kalluri",
+	"ePersonalPhone":"9966669078",
+	"eOfficePhone":"9492345152",
+	"eAssertIds":"MacBook001",
+	"eOfficeEmailId":"kallurikrishna92@gmail.com",
+	"ePersonalEmailId":"krishnakalluri92@gmail.com",
+	"eDob":"08-09-1992",
+	"eDoj":"22-06-2015",
+	"ePreviousExperience":"2.8 Years",
+	"ePersonalAnniversary":"NA",
+	"eIdentityPhoto":null
+}
